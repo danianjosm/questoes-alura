@@ -2,7 +2,7 @@
 
 contagem =[1,2,3,4,5,6,7,8,9,10]
 
-for contagens in contagem:
+for contagens in contagem: #for = "para cada item da lista, faça isso"
     print(f"{contagens} ")
 
 
